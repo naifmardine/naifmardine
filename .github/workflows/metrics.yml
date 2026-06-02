@@ -16,10 +16,5 @@ jobs:
           filename: profile/metrics.svg
           base: header, activity, repositories
           config_timezone: America/Sao_Paulo
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, makefile, dockerfile, procfile, jupyter notebook, batchfile, powershell, shell, scss, tex
-          plugin_languages_limit: 6
-          plugin_languages_details: percentage
-          plugin_languages_sections: most-used
           output_action: commit
           committer_branch: master

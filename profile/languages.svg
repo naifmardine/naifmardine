@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" fill="none" role="img" aria-label="Linguagens mais usadas">
+  <style>
+    .t  { font: 600 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #0366d6; }
+    .l  { font: 400 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #24292f; }
+    .p  { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #57606a; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="479" height="169" rx="6" fill="#ffffff" stroke="#e1e4e8"/>
+
+  <text x="24" y="34" class="t">Linguagens mais usadas</text>
+
+  <!-- barra segmentada -->
+  <g>
+    <rect x="24" y="52" width="353"  height="10" rx="5" fill="#3178c6"/>
+    <rect x="377" y="52" width="54"  height="10" fill="#3572A5"/>
+    <rect x="431" y="52" width="24"  height="10" fill="#e34c26"/>
+    <rect x="455" y="52" width="6"   height="10" fill="#563d7c"/>
+    <rect x="461" y="52" width="3"   height="10" rx="2" fill="#8b949e"/>
+  </g>
+
+  <!-- legenda -->
+  <g>
+    <circle cx="30" cy="92" r="5" fill="#3178c6"/>
+    <text x="42" y="96" class="l">TypeScript <tspan class="p">80,2%</tspan></text>
+
+    <circle cx="250" cy="92" r="5" fill="#3572A5"/>
+    <text x="262" y="96" class="l">Python <tspan class="p">12,3%</tspan></text>
+
+    <circle cx="30" cy="120" r="5" fill="#e34c26"/>
+    <text x="42" y="124" class="l">HTML <tspan class="p">5,4%</tspan></text>
+
+    <circle cx="250" cy="120" r="5" fill="#563d7c"/>
+    <text x="262" y="124" class="l">CSS <tspan class="p">1,4%</tspan></text>
+
+    <circle cx="30" cy="148" r="5" fill="#336790"/>
+    <text x="42" y="152" class="l">PL/pgSQL <tspan class="p">0,4%</tspan></text>
+
+    <circle cx="250" cy="148" r="5" fill="#8b949e"/>
+    <text x="262" y="152" class="l">Outras <tspan class="p">0,3%</tspan></text>
+  </g>
+</svg>
