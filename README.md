@@ -5,7 +5,7 @@
 **Administração @ FGV** · Consultoria & Mercado Financeiro
 Resolvo problemas de negócio construindo as ferramentas — dados, automação e IA aplicada
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naifmardine/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:naifmmardine@gmail.com)
 
 </div>
@@ -63,4 +63,4 @@ Meu diferencial é o cruzamento **negócios × tecnologia**: pego um problema de
 
 Aberto a papo sobre **consultoria, mercado financeiro, dados e IA aplicada a negócios**.
 
-📧 naifmmardine@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO/)
+📧 naifmmardine@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/naifmardine/)
