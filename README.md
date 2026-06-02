@@ -6,6 +6,11 @@
   Sou estudante de Administração na FGV e atuo como Digital Dev na FGV Jr. O que me move é o encontro entre negócios e tecnologia: gosto de transformar conceitos que estudo, como valuation, estatística e estratégia, em ferramentas que funcionam na prática. É para a consultoria e o mercado financeiro que pretendo direcionar esse trabalho.
 </p>
 
+<div align="center">
+  <img width="48%" src="profile/stats.svg" alt="GitHub stats" />
+  <img width="48%" src="profile/languages.svg" alt="Linguagens mais usadas" />
+</div>
+
 <h4>Contato</h4>
 
 <p>
